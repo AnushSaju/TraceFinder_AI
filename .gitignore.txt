@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Datasets
+Flatfield/
+Official/
+Wikipedia/
+data/
+dataset/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+
+# Logs / outputs
+logs/
+results/
